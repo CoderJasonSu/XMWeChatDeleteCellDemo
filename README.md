@@ -10,4 +10,7 @@
 ![预览图](https://github.com/CoderJasonSu/XMWeChatDeleteCellDemo/blob/master/iOS8cellDelete.gif)
 
 ## 更多
+代码中已经有给出许多注释，你应该能看懂的。
 若能帮到你，请给个Star ，谢谢。
+
+有疑问或其他交流的，欢迎交流Q366698357。
