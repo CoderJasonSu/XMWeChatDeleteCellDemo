@@ -9,6 +9,9 @@
 
 ![预览图](https://github.com/CoderJasonSu/XMWeChatDeleteCellDemo/blob/master/iOS8cellDelete.gif)
 
+## 使用方法
+直接下载整个项目文件，打开运行，再根据自己的需求进行copy 和完善。
+
 ## 更多
 代码中已经有给出许多注释，你应该能看懂的。
 若能帮到你，请给个Star ，谢谢。
