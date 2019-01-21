@@ -5,4 +5,9 @@
 
 支持 iOS 8 +
 
-![预览](XMWeChatDeleteCellDemo/iOS8cellDelete.gif)
+## 效果图
+
+![预览图](https://github.com/CoderJasonSu/XMWeChatDeleteCellDemo/blob/master/iOS8cellDelete.gif)
+
+## 更多
+若能帮到你，请给个Star ，谢谢。
